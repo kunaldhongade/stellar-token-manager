@@ -10,7 +10,10 @@ _“Empower your ideas with tokens. Trade, manage, and launch seamlessly.”_
 🔗 https://stellar.expert/explorer/testnet/tx/7ac35f5a1a7d4b26e61afb4363be335ff600564f1513b842862cf66d9743d12f
 🔗 https://stellar.expert/explorer/testnet/contract/CDICWJS6IJGQEJ7TSWXSHPVGG5ZMCMSI3AF643DNNAKD6AT7HJMYNQQD
 ✅ Deployed!
-CDICWJS6IJGQEJ7TSWXSHPVGG5ZMCMSI3AF643DNNAKD6AT7HJMYNQQD -->
+CDICWJS6IJGQEJ7TSWXSHPVGG5ZMCMSI3AF643DNNAKD6AT7HJMYNQQD
+
+CBQULQSNOXWPF5CGJP6IXKWUVJGED2DUQ2V7FBTDLLGC3FHGKMICNNPD
+ -->
 
 ## 🎉 **Deployment Successful!**
 
