@@ -1,4 +1,4 @@
-# Stellar Token Builder using Soroban
+# Stellar Token Manager using Soroban
 
 ## Overview
 
